@@ -65,3 +65,8 @@ width: 70%;
 .borderek{
   margin-bottom: 5%;
 }
+
+body {
+    background-image: url(konf_meghivo.jpg);
+    background-size:contain
+}
